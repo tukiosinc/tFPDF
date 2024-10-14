@@ -1,10 +1,15 @@
 {
-    "name": "setasign/tfpdf",
+    "name": "tukios/tfpdf",
     "homepage": "http://fpdf.org/en/script/script92.php",
     "description": "This class is a modified version of FPDF that adds UTF-8 support. The latest version is based on FPDF 1.85.",
     "type": "library",
-    "keywords": ["pdf", "fpdf", "unicode", "tfpdf"],
-    "license": "LGPL-2.1",
+    "keywords": [
+        "pdf",
+        "fpdf",
+        "unicode",
+        "tfpdf"
+    ],
+    "license": "MIT",
     "authors": [
         {
             "name": "Ian Back"
